@@ -35,7 +35,6 @@ def kmeans(data, k, max_iterations=100, tolerance=1e-4):
 
 # Example usage
 if __name__ == "__main__":
-    # Sample data: list of points (each point is a list of coordinates)
     data = [
         [1.0, 2.0], [1.5, 1.8], [5.0, 8.0],
         [8.0, 8.0], [1.0, 0.6], [9.0, 11.0],
